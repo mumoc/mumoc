@@ -1,16 +1,40 @@
-## Hi there 👋
+# Mumoc — Team Architect
 
-<!--
-**mumoc/mumoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You don’t build products.  
+You build the conditions where teams can build anything.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I Do
+
+I connect people, systems, and ideas.
+
+I help teams move from:
+
+- isolation → collaboration  
+- activity → outcomes  
+- uncertainty → clarity  
+
+---
+
+## Focus
+
+- Team dynamics  
+- Trust and collaboration  
+- Human–AI collaboration  
+- Turning ambiguity into execution  
+
+---
+
+## Writing
+
+(coming soon)
+
+---
+
+## Philosophy
+
+Sharing is caring.
+
+Teams don’t need to move faster.  
+They need to move further.
