@@ -28,7 +28,7 @@ I help teams move from:
 
 ## Writing
 
-(coming soon)
+- [AI Doesn’t Join Individuals. It Joins Teams](./content/posts/ai_joins_teams.md)
 
 ---
 
