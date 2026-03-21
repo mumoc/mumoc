@@ -1,7 +1,7 @@
 # Mumoc — Team Architect
 
-You don’t build products.  
-You build the conditions where teams can build anything.
+I don’t build products.  
+I build the conditions where teams can build anything.
 
 ---
 
