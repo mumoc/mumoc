@@ -39,8 +39,7 @@ Once those conditions exist, delivery tends to improve naturally.
 ## What's in This Profile
 
 ### 📚 Philosophy & Frameworks
-- **[`/me`](https://github.com/mumoc/me)** — My master knowledge repo
-  - `CLAUDE.md` — Professional identity, voice, and worldview
+- **[`/writing`](https://github.com/mumoc/writing)** — My master knowledge repo
   - `method/care_to_deliver.md` — The framework in detail
   - `philosophy/` — Core beliefs on empathy, trust, collaboration
   - `profile/` — Professional positioning
@@ -78,19 +77,6 @@ This requires discipline. AI amplifies what already works—it doesn't replace j
 - **Global CLAUDE.md** — Cross-project behavioral rules (TDD, code conventions, ticket planning, security)
 - **MCP Integrations** — GitHub, Gmail, Google Calendar for structured workflows
 - **Per-repo CLAUDE.md files** — Stack-specific guidance, verification commands, architecture notes
-
----
-
-## My Voice
-
-I write from lived experience, not theory.
-
-- Direct and warm, never corporate or preachy
-- Short paragraphs, scannable structure
-- Real moments and quotes, building tension before resolution
-- Focus on human insight, not technological hype
-
-**What I avoid:** "unlock your potential," "game changer," "leverage AI," "seamless," "disruptive." That's not how humans talk about real problems.
 
 ---
 
