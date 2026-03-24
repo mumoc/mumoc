@@ -1,7 +1,7 @@
 ---
 title: The Problem of AI Is Not AI
 type: post
-status: ready
+status: published
 tags: AI, context, thinking, execution, clarity, leadership
 ---
 
