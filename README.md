@@ -39,7 +39,7 @@ Once those conditions exist, delivery tends to improve naturally.
 ## What's in This Profile
 
 ### 📚 Philosophy & Frameworks
-- **[`/writing`](https://github.com/mumoc/writing)** — My master knowledge repo
+- **[`/mumoc`](https://github.com/mumoc/mumoc)** — My master knowledge repo
   - `method/care_to_deliver.md` — The framework in detail
   - `philosophy/` — Core beliefs on empathy, trust, collaboration
   - `profile/` — Professional positioning
