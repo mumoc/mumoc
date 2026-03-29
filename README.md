@@ -1,8 +1,8 @@
 # Hey, I'm Mumo 👋
 
-**Senior Software Engineer | Team Architect**
+**Team Architect | Senior Software Engineer**
 
-I design the conditions where teams can build anything—through technical excellence, clear collaboration, and systems thinking.
+I design the conditions where teams can build anything — through technical excellence, clear collaboration, and systems thinking.
 
 ---
 
@@ -45,9 +45,12 @@ Once those conditions exist, delivery tends to improve naturally.
   - `profile/` — Professional positioning
 
 ### ✍️ Writing
-- **Published Posts on Medium** (8 posts on leadership, AI, and team dynamics)
+- **Published Posts on Medium** (11 posts on leadership, AI, and team dynamics)
+  - [The Problem of AI Is Not AI](https://medium.com/@mumoc)
+  - [Execution Is Becoming Cheap](https://medium.com/@mumoc)
   - [AI Can Run Your Workflow, But It Can't Own the Outcome](https://medium.com/@mumoc)
   - [If AI Makes Us Faster, What Should We Do With the Time?](https://medium.com/@mumoc)
+  - [AI Doesn't Join Individuals, It Joins Teams](https://medium.com/@mumoc)
   - [Accountability](https://medium.com/@mumoc)
   - [Empathy and Compassion: People Management](https://medium.com/@mumoc)
   - [Success](https://medium.com/@mumoc)
@@ -82,9 +85,10 @@ This requires discipline. AI amplifies what already works—it doesn't replace j
 
 ## Currently Working On
 
+- **Team Architect role at Dealerware** — full-stack systems across Rails, React, and Flutter, with focus on data infrastructure and cross-team coordination
+- **Publishing a content series on Medium** — exploring human-AI collaboration, team trust, and the gap between activity and real outcomes
 - **Deepening AI integration** into full-stack development workflows
 - **Building Claude Code and MCP setups** across polyrepo architecture (Rails API, Flutter app, React frontend)
-- **Exploring production RAG systems** and agentic AI patterns
 - **Refining my methods** through hands-on technical work and team leadership
 
 ---
