@@ -1,4 +1,4 @@
-# Hey, I'm Mumo 👋
+# Hey, I'm Mumoc 👋
 
 **Team Architect · Senior Software Engineer · Connector**
 
@@ -89,21 +89,17 @@ Published on Medium at **[@mumoc](https://medium.com/@mumoc)** — AI, teams, le
 - **TDD & Testing** — Discipline-first development approach
 - **AI Integration** — Building Claude-assisted workflows into development processes
 
-### 🧠 AI & Development Workflow
-I'm actively building AI-assisted engineering workflows. My approach:
+### 🧠 AI Projects & Tooling
 
-1. **Define business logic first** — clarity before code
-2. **Structure work with acceptance criteria** — explicit expectations
-3. **Use Claude/Codex as a peer** — not a task runner
-4. **Version rules & practices** — best practices alongside code
-5. **Maintain quality at scale** — skills, guardrails, and configurations
+I'm actively building AI-assisted workflows and tools. My approach: define business logic first, structure work with clear acceptance criteria, then use AI as a peer — not a task runner. Rules, skills, and best practices are versioned alongside code.
 
-AI amplifies what already works — it doesn't replace judgment or accountability. When integrated thoughtfully, it accelerates how teams learn and improve.
+**Projects:**
 
-**Resources I've built:**
-- **CLAUDE.md** — Master context file that primes any AI session with my frameworks, voice, and working principles
-- **MCP filesystem integration** — Claude reads my local repo directly, grounding every session in real context
-- **Per-repo CLAUDE.md files** — Stack-specific guidance, verification commands, architecture notes
+- **[claude_bootstrap](https://github.com/mumoc/claude_bootstrap)** — Portable Claude Code configuration you can clone and bootstrap on any machine in one command. Includes a full agentic ticket pipeline: orchestrator → extractor → analyzer → challenger + risk assessment (parallel) → planner → validator. Features strict/soft/human gates, append-only shared state, loop-back recovery, and a complete skill suite for engineering workflow, Jira planning, and verification.
+
+- **[bmo](https://github.com/mumoc/bmo)** — A voice-activated AI companion styled as BMO from Adventure Time. Listens via microphone, transcribes locally with Whisper, generates responses via Ollama, speaks via macOS `say`, and animates a browser-based face in real time. Includes conversation context, long-term memory persistence to `memory.json`, and interrupt detection. Built for joy — but technically grounded.
+
+- **CLAUDE.md system** — Master context file that primes any AI session with my frameworks, voice, and working principles. Paired with MCP filesystem integration so Claude reads my local repo directly.
 
 ---
 
@@ -139,7 +135,7 @@ Open to conversations about:
 
 > **Mistakes are data, not identity.** I extend the same compassion to my own failures that I extend to others. Growth is collective.
 
-> **5 = your team's average, not the world's.** Hire to improve the standard, not to impress an abstract ideal.
+> **On hiring: in a 1–10 rubric, 5 means your team's current average — not the world's.** Hire above that number and you raise the standard. Hire below it and you lower it. The goal is always to improve.
 
 > **AI joins teams, not individuals.** The most valuable thing AI is doing inside organizations right now isn't productivity. It's giving people a reason to ask for help. And that's bringing teams back together.
 
