@@ -1,5 +1,19 @@
+# System
 .DS_Store
-content/posts/draft/
-mumoc_content_calendar.xlsx
+.DS_Store?
+._*
+Thumbs.db
+
+# Binary outputs — regenerate from source, don't version
+*.docx
+*.xlsx
+*.pdf
+
+# Assets (large files)
 assets/
+
+# Private / status files
 STATUS.md
+
+# Draft posts (not ready for public repo)
+content/posts/draft/
