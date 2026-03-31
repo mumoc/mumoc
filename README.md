@@ -2,7 +2,7 @@
 
 **Team Architect · Senior Software Engineer · Connector**
 
-I build the conditions where teams can build anything.
+I build the conditions where teams can build anything — through technical excellence, clear collaboration, and systems thinking.
 
 ---
 
@@ -20,7 +20,7 @@ I left a COO role when the organization asked me to stop prioritizing people and
 
 ## What I've Built (Beyond Code)
 
-Most of my career story doesn't fit a standard job title. Here's what's been invisible until now:
+Most of my career story doesn't fit a standard job title. Here's what's been invisible:
 
 **Career paths that didn't exist** — I've proposed and negotiated my own roles 4–5 times across my career. When there were no more steps, I defined the next one, took responsibility for it, and built the scope from scratch.
 
@@ -39,68 +39,80 @@ Most of my career story doesn't fit a standard job title. Here's what's been inv
 
 ---
 
-## My Framework: Care to Deliver
+## My Framework: Care → Trust → Teamwork → Delivery
 
 Most organizations try to deliver first and care later. I reverse that.
 
 **Care → Trust → Teamwork → Delivery**
 
-When teams care about each other and share openly, trust grows. When trust grows, collaboration becomes natural. When collaboration is natural, delivery follows — and improves continuously.
+When teams care about each other and share openly, trust grows and collaboration becomes natural. This means:
 
-The method: observe human signals → clarify agreements → evaluate whether metrics measure real value → introduce movement where stagnation exists → encourage sharing → build trust → unlock teamwork.
+- **Observing human signals** — engagement, silence, defensiveness
+- **Clarifying agreements** — expectations, responsibilities, goals
+- **Introducing movement** — breaking stagnation through structural change
+- **Encouraging sharing** — creating safety for ideas, questions, doubts
+- **Building trust** — the foundation that unlocks teamwork
+
+Once those conditions exist, delivery tends to improve naturally.
 
 **This isn't soft management.** It directly produced NPS of 99 and eNPS of 95. The numbers move when the human conditions are right.
 
 ---
 
-## On AI
+## What's in This Profile
 
-I treat AI as a **cognitive collaborator**, not a productivity tool.
+### 📚 Philosophy & Frameworks
+- **[`/mumoc`](https://github.com/mumoc/mumoc)** — My master knowledge repo
+  - `CLAUDE.md` — Master context file for AI sessions
+  - `method/care_to_deliver.md` — The framework in detail
+  - `philosophy/` — Core beliefs on empathy, trust, collaboration
+  - `profile/career_raw.md` — Deep career interview notes
+  - `profile/build-cv.js` — CV generator script
 
-AI is most valuable when integrated at the **team level** — not handed to individuals as a personal shortcut. The same principles that build trust between people apply to AI: onboard it progressively, verify before you delegate, expand access as trust grows.
+### ✍️ Writing
+Published on Medium at **[@mumoc](https://medium.com/@mumoc)** — AI, teams, leadership, and the gap between activity and real outcomes.
 
-What concerns me: organizations using AI to scale *activity* when the real opportunity is improving *judgment, accountability, and direction*. AI amplifies what already works. If the culture is broken, AI makes the noise louder.
-
-My current setup:
-- **CLAUDE.md** — master context file that primes any AI session with my frameworks, voice, and working principles
-- **MCP filesystem integration** — Claude reads my local repo directly, grounding every session in real context
-- **AI-assisted dev workflows** — Claude/Codex as peers in planning, ticket definition, and implementation, with rules and skills versioned alongside code
-
----
-
-## Writing
-
-I publish on Medium at **[@mumoc](https://medium.com/@mumoc)** — exploring AI, teams, leadership, and the gap between activity and real outcomes.
-
-Recent posts:
 - [AI Doesn't Join Individuals. It Joins Teams.](https://mumoc.medium.com/ai-doesnt-join-individuals-it-joins-teams-f0f414475daf)
-- [AI Can Run Your Workflow. But It Can't Own the Outcome.](https://medium.com/@mumoc)
+- [AI Can Run Your Workflow, But It Can't Own the Outcome](https://medium.com/@mumoc)
 - [If AI Makes Us Faster, What Should We Do With the Time?](https://medium.com/@mumoc)
-- [Empathy and Compassion: People Management](https://medium.com/@mumoc)
 - [Accountability](https://medium.com/@mumoc)
+- [Empathy and Compassion: People Management](https://medium.com/@mumoc)
+- [Success](https://medium.com/@mumoc)
+- [Coherence and Communication](https://medium.com/@mumoc)
+- [On Processes, Agile, and Professionalism](https://medium.com/@mumoc)
+- [Working Remotely](https://medium.com/@mumoc)
+
+### 🛠️ Technical Work
+- **Ruby/Rails APIs** — Backend systems design, data infrastructure, performance optimization
+- **React + Flutter** — Full-stack development across web and mobile
+- **AWS/Docker** — Infrastructure, CI/CD, containerization
+- **TDD & Testing** — Discipline-first development approach
+- **AI Integration** — Building Claude-assisted workflows into development processes
+
+### 🧠 AI & Development Workflow
+I'm actively building AI-assisted engineering workflows. My approach:
+
+1. **Define business logic first** — clarity before code
+2. **Structure work with acceptance criteria** — explicit expectations
+3. **Use Claude/Codex as a peer** — not a task runner
+4. **Version rules & practices** — best practices alongside code
+5. **Maintain quality at scale** — skills, guardrails, and configurations
+
+AI amplifies what already works — it doesn't replace judgment or accountability. When integrated thoughtfully, it accelerates how teams learn and improve.
+
+**Resources I've built:**
+- **CLAUDE.md** — Master context file that primes any AI session with my frameworks, voice, and working principles
+- **MCP filesystem integration** — Claude reads my local repo directly, grounding every session in real context
+- **Per-repo CLAUDE.md files** — Stack-specific guidance, verification commands, architecture notes
 
 ---
 
-## What's in This Repo
+## Currently Working On
 
-This is my **master knowledge repository** — the source of truth for any AI working with me.
-
-```
-mumoc/
-├── CLAUDE.md                  ← Master context file for AI sessions
-├── context/ai_context.md      ← Full personal and professional context
-├── profile/
-│   ├── professional_profile.md
-│   ├── team_architect.md
-│   ├── career_raw.md          ← Deep career interview notes
-│   └── build-cv.js            ← CV generator script
-├── method/care_to_deliver.md  ← The framework in full
-├── philosophy/                ← Core beliefs on empathy, trust, sharing
-├── vision/                    ← Human-AI collaboration thinking
-└── content/
-    ├── posts/published/       ← All published writing
-    └── drafts/                ← Works in progress + people systems docs
-```
+- **Team Architect role at Dealerware** — full-stack systems across Rails, React, and Flutter, with focus on data infrastructure and cross-team coordination
+- **Publishing on Medium** — exploring human-AI collaboration, team trust, and the gap between activity and real outcomes
+- **Deepening AI integration** into full-stack development workflows using Claude Code, MCP, and agentic workflows
+- **Refining my methods** through hands-on technical work and team leadership
 
 ---
 
@@ -115,12 +127,15 @@ Open to conversations about:
 - **Team systems** — culture design, career paths, organizational structure
 - **Consulting** — team dynamics, hiring methodology, performance frameworks
 - **Mentoring** — engineers navigating technical growth and leadership transitions
+- **Speaking** — AI integration, team trust, and technical leadership
 
 ---
 
 ## A Few Things I Believe
 
 > **Trust before authority.** I've earned trust before I had a title, every time. The title confirmed what everyone already knew. The real value is always the journey.
+
+> **Care is strategic.** Empathy and compassion are not soft skills — they're foundational strengths that drive engagement, retention, and business outcomes.
 
 > **Mistakes are data, not identity.** I extend the same compassion to my own failures that I extend to others. Growth is collective.
 
@@ -130,6 +145,17 @@ Open to conversations about:
 
 > **Accountability can't be automated.** Execution can. Judgment can't. Direction can't. As automation expands, accountability becomes rarer — and far more valuable.
 
+> **Systems matter more than heroes.** Most teams don't fail because people are incapable. They fail because the system stopped moving. Build the conditions. Let people excel.
+
 ---
 
-**mumo.crls@gmail.com · [linkedin.com/in/mumoc](https://linkedin.com/in/mumoc) · [medium.com/@mumoc](https://medium.com/@mumoc) · Colima, Mexico 🌴**
+## How to Reach Me
+
+- **Email:** mumo.crls@gmail.com
+- **Medium:** [@mumoc](https://medium.com/@mumoc)
+- **LinkedIn:** [linkedin.com/in/mumoc](https://linkedin.com/in/mumoc)
+- **Based in:** Colima, Mexico 🌴
+
+---
+
+**Let's build something together.** If you're thinking about team dynamics, technical excellence, or how to integrate AI thoughtfully into your workflow, let's talk.
