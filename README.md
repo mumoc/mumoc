@@ -14,7 +14,7 @@ I am a **Connector**: I absorb ambiguity, bridge people and systems, and transla
 
 I left a COO role when the organization asked me to stop prioritizing people and start treating them as cost lines. I chose **integrity over advancement** and returned to engineering — not a step back, but a realignment with my principles.
 
-**Currently at Dealerware** — full-stack across Ruby/Rails (API), React (web), and Flutter (mobile). Focused on data infrastructure, cross-team coordination, and building reliable systems that enable downstream teams to move faster.
+Most recently full-stack across Ruby/Rails (API), React (web), and Flutter (mobile) — focused on data infrastructure, cross-team coordination, and building reliable systems that enable downstream teams to move faster. Currently open to what comes next.
 
 ---
 
@@ -65,7 +65,6 @@ Once those conditions exist, delivery tends to improve naturally.
 - **[`/mumoc`](https://github.com/mumoc/mumoc)** — My master knowledge repo
   - `CLAUDE.md` — Master context file for AI sessions
   - `method/care_to_deliver.md` — The framework in detail
-  - `philosophy/` — Core beliefs on empathy, trust, collaboration
   - `profile/career_raw.md` — Deep career interview notes
   - `profile/build-cv.js` — CV generator script
 
@@ -105,10 +104,10 @@ I'm actively building AI-assisted workflows and tools. My approach: define busin
 
 ## Currently Working On
 
-- **Team Architect role at Dealerware** — full-stack systems across Rails, React, and Flutter, with focus on data infrastructure and cross-team coordination
 - **Publishing on Medium** — exploring human-AI collaboration, team trust, and the gap between activity and real outcomes
 - **Deepening AI integration** into full-stack development workflows using Claude Code, MCP, and agentic workflows
 - **Refining my methods** through hands-on technical work and team leadership
+- **Looking for the next fertile field** — open to conversations about what comes next
 
 ---
 

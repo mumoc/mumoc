@@ -126,11 +126,7 @@ Topics include:
 
 # His Writing Voice
 
-Before generating content, review:
-
-- `content/posts/ai_can_run_your_workflow_but_it_cant_own_the_outcome.md`
-- `content/posts/if_ai_makes_us_faster_what_should_we_do_with_the_time.md`
-- `content/posts/empathy_and_compassion.md`
+Before generating content, review posts in `~/Brain/04-writing/posts/published/`.
 
 **Voice:** Direct, warm, never preachy or corporate. Short paragraphs, scannable structure. Uses real moments and quotes. Builds tension before resolving it. Ends with reflection or a question.
 
@@ -158,84 +154,4 @@ Always ask: **Does this sound like someone speaking from experience — or like 
 
 ---
 
-# Creative Projects
-
-## Amarillo Primavera
-
-Artisan brand inspired by the Primavera tree and the color yellow (creativity, happiness, hope, light, energy). Products are handmade with high-quality materials. Emotional theme: nostalgia and traditional craftsmanship — rag dolls, handmade soaps, grandma-style embroidery. Visual identity: Primavera tree, yellow, Colima volcanoes. Target: tourist areas with appeal to Mexican and international visitors.
-
-## Salsa Diabla
-
-Hot sauce with 10 types of chiles. Needs logo design.
-
-## Amigou
-
-Cinematic creative project. Aesthetic: sepia tone, film grain, classic Mexican cinema.
-
-**Creative style:** Vintage aesthetics, sometimes pinup illustration style, clean product labels suitable for direct printing.
-
----
-
-# Published Content Index
-
-Reference for all published posts. Used for voice consistency, content strategy, and automation validation.
-
-## Published Posts (`content/posts/published/`)
-
-### Core AI & Productivity Posts
-
-**AI Can Run Your Workflow, But It Can't Own the Outcome**
-- `ai_can_run_your_workflow_but_it_cant_own_the_outcome.md`
-- **Core theme:** Accountability vs. automation. The distinction between running workflows (execution) and owning outcomes (judgment). Argues that performance theater scales when metrics reward activity over understanding.
-- **Key idea:** AI exposes flawed measurement systems; real value lies in context, not output.
-- **Tags:** accountability, leadership, productivity, AI, performance theater
-
-**If AI Makes Us Faster, What Should We Do With the Time?**
-- `if_ai_makes_us_faster_what_should_we_do_with_the_time.md`
-- **Core theme:** Productivity upstream vs. downstream. As execution becomes cheap, humans must focus on problem-framing, judgment, and strategic thinking.
-- **Key idea:** AI multiplies culture; the real shift is from doing more work to choosing better work.
-- **Tags:** productivity, leadership, career, learning, management, strategic thinking
-
-### Leadership & People Management
-
-**Empathy and Compassion: People Management**
-- `empathy_and_compassion.md`
-- **Core theme:** Foundational people leadership. Defines empathy and compassion as organizational strengths, not soft skills. Shows how they drive engagement, retention, and business outcomes.
-- **Key idea:** Talk, listen, understand context. Familiarity builds trust.
-- **Tags:** empathy, leadership, management, communication, psychological safety
-
-**Accountability**
-- `accountability.md`
-- **Core theme:** Distinguishing between responsibility (mandate) and accountability (ownership). Introduces the R.O.L.E. framework for clarity.
-- **Key idea:** Make people responsible through clear roles and expectations, not through command.
-- **Tags:** accountability, leadership, management, teamwork, feedback
-
-**Success**
-- `success.md`
-- **Core theme:** Defining and aligning personal/organizational success. Uses Constancy, Perseverance, and Resilience as a framework for development.
-- **Key idea:** Success is subjective; leaders must help align individual success with organizational goals through measurable frameworks.
-- **Tags:** leadership, management, accountability, empathy, career development
-
-### Culture & Systems
-
-**Coherence and Communication**
-- `coherence_and_communication.md`
-- **Core theme:** How teams create shared understanding and alignment across distance and complexity.
-- **Key idea:** Coherence emerges from intentional, visible communication structures.
-- **Tags:** communication, leadership, teamwork, remote work, systems
-
-**On Processes, Agile, and Professionalism**
-- `on_processes_agile_and_professionalism.md`
-- **Core theme:** Processes as cultural containers, not mechanical controls. Professionalism as a commitment to growth and quality.
-- **Key idea:** Agile failed when it became bureaucracy; processes should enable autonomy, not enforce compliance.
-- **Tags:** processes, agile, professionalism, leadership, systems
-
-**Working Remotely**
-- `working_remotely.md`
-- **Core theme:** Remote work challenges and how to maintain connection, trust, and coherence in distributed teams.
-- **Key idea:** Distance doesn't break teams; absent communication structures do.
-- **Tags:** remote work, communication, teamwork, leadership, psychological safety
-
----
-
-*Last updated: March 2026*
+*Last updated: April 2026*
